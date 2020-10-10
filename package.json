@@ -1,0 +1,28 @@
+{
+  "name": "Heinekenbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "discord.js": "^11.6.4",
+    "ffmpeg": "0.0.4",
+    "ffmpeg-binaries": "^3.2.2-3",
+    "jimp": "^0.10.3",
+    "moment": "^2.25.3",
+    "ms": "^2.1.1",
+    "opusscript": "0.0.7",
+    "queue": "^6.0.1",
+    "request": "^2.88.2",
+    "selenium-webdriver": "^4.0.0-alpha.7",
+    "youtube": "^0.1.0",
+    "ytdl-core": "^0.29.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
